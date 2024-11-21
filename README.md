@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 -->
 
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there.. Welcome to my GitHub!
-# Oraya Chantanawat - Aliz ❤️
 
 I am a former veterinarian who loves technology, gaming, design, nature and animals. I decided to switch careers and pursue my dream of being a full-stack developer. I started coding my first project in November 2024.
 
